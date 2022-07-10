@@ -4,8 +4,8 @@ AES ECB 256 (Key: oXkkQiZFKUhATWNRZVRoV21acTR0N3cheiVDKkYtSme=(FLC) (Need more t
 
 Remake in order:
 
-- cGFdDVn+E2bHTLJSmj8jCA==
-- 2gUDk9Dzny1bdXpE30JyuA==
-- HOFQplbsmx4Zt40uPpJIsg==
+[ ] cGFdDVn+E2bHTLJSmj8jCA== (Status: Not Started)
+[ ] 2gUDk9Dzny1bdXpE30JyuA== (Status: Not Started)
+[ ] HOFQplbsmx4Zt40uPpJIsg== (Status: Not Started)
 
 /!\ DON'T TOUCH /!\(Joking idc)

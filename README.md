@@ -1,6 +1,6 @@
 # Ignore
 
-AES ECB 256 (Key: oXkkQiZFKUhATWNRZVRoV21acTR0N3cheiVDKkYtSme=(FLC) (Need more than copy bro but not that much))
+AES ECB 256 (Key: oXkkQiZFKUhATWNRZVRoV21acTR0N3cheiVDKkYtSme=(FL C) (Need more than copy bro but not that much))
 
 Remake in order:
 
@@ -12,4 +12,4 @@ Remake in order:
 
 
 
-/!\ DON'T TOUCH /!\(Joking idc)
+/!\ DON'T TOUCH /!\\(Joking idc)

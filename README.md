@@ -5,9 +5,9 @@
 Remake in order:
 
 
-- [ ] cGFdDVn+E2bHTLJSmj8jCA== (Status: Not Started (Start the 1st September))<br>
-- [ ] 2gUDk9Dzny1bdXpE30JyuA== (Status: Not Started (Start the 1st October))<br>
-- [ ] HOFQplbsmx4Zt40uPpJIsg== (Status: Not Started (Start the 1st November))
+- [ ] cGFdDVn+E2bHTLJSmj8jCA== (Status: Not Started (Start the 1st August))<br>
+- [ ] 2gUDk9Dzny1bdXpE30JyuA== (Status: Not Started (Start the 1st September))<br>
+- [ ] HOFQplbsmx4Zt40uPpJIsg== (Status: Not Started (Start the 1st October))
 
 
 
